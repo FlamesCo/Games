@@ -1,3 +1,1 @@
-# Games
-
-Our rad collection of C and other syntax  code is sure to take you back to the good old days! With its classic 90s lingo and feel, you'll be able to relive the glory days of gaming and programming. So whether you're a seasoned vet or a total newb, come on in and check us out!
+ Welcome to our totally radical collection of code, dude! If you're looking for a blast from the past, you've come to the right place. Our code is so retro, it'll have you feeling like you're back in the good old days of gaming and programming. We've got everything from C to other syntax, all with that classic 90s lingo and feel. Whether you're a total newb or a seasoned vet, you'll be stoked to check out our rad collection of games! So what are you waiting for? Grab a bag of Doritos and get ready to blast back to the past with us, courtesy of joke explainer 7000 from Silva AI.
